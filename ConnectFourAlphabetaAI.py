@@ -2,6 +2,9 @@ import copy
 import ConnectFourBoard
 
 
+# I have tried to improve the MiniMax
+# I have not been able to make it work and the AlphaBeta is not coded yet
+
 
 def other(token):
     if token == ConnectFourBoard.RED:
