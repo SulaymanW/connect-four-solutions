@@ -9,7 +9,7 @@ if __name__ == '__main__':
     # Modify these parameters to tweak the game
     app = ConnectFourEngine.ConnectFour(
         ai_delay=10,
-        red_player=ConnectFourMinimaxAI.AIcheck,
+        red_player=ConnectFourAlphabetaAI.AIcheck,
         blue_player=ConnectFourMinimaxAI.AIcheck,
     )
     # start the game engine
