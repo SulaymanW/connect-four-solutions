@@ -3,7 +3,9 @@ import ConnectFourBoard
 
 
 # I have tried to improve the MiniMax
-# I have not been able to make it work and the AlphaBeta AI is not coded yet
+# I have not been able to make it work and the AlphaBeta is not coded yet
+# I would be very happy if you could send me the solution to this task
+# Thank you :)
 
 
 def other(token):
